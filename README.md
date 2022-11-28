@@ -136,6 +136,7 @@
 ### 기능 명세서
 
 ![needs](https://user-images.githubusercontent.com/90491599/204214206-d1851f24-9f9e-4189-ace2-d520481b80c0.png)
+![needs2](https://user-images.githubusercontent.com/90491599/204216103-45019faa-2f8f-4021-8551-70dc9e553abf.png)
 
 
 ---
